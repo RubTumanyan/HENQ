@@ -1,2 +1,2 @@
 # HENQ
-my hoemworks
+my homeworks
